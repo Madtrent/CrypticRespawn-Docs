@@ -36,7 +36,7 @@ CrypticRespawn is a versatile plugin designed to enhance the respawn experience 
 ## Configuration
 
 ### Configuring the Plugin
-To configure CrypticRespawn, you need to edit the `config.yml` file located in the plugin's data folder.
+To configure CrypticRespawn, you need to edit the `config.yml` file located in the plugin's data folder [[View Here]](https://github.com/Madtrent/CrypticRespawn-Docs/blob/main/Config.md).
 
 ### Custom Language File
 You can create your own language file by creating a YML file with all the necessary values and saving the name of that file in the `config.yml`. This allows you to customize the messages sent to players.
