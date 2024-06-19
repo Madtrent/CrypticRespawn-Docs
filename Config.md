@@ -1,5 +1,6 @@
 
 # Config File Preview
+Back to docs [[Here]](https://github.com/Madtrent/CrypticRespawn-Docs/blob/main/README.md)
 ```
 # ╔══╗   ╔═══╗   ╔╗╔╗   ╔═══╗   ╔════╗   ╔══╗   ╔══╗         ╔══╗    ╔═══╗   ╔╗╔╗   ╔═══╗   ╔╗     ╔══╗   ╔═══╗   ╔╗  ╔╗   ╔═══╗   ╔╗ ╔╗   ╔════╗
 # ║╔═╝   ║╔═╗║   ║║║║   ║╔═╗║   ╚═╗╔═╝   ╚╗╔╝   ║╔═╝         ║╔╗╚╗   ║╔══╝   ║║║║   ║╔══╝   ║║     ║╔╗║   ║╔═╗║   ║║  ║║   ║╔══╝   ║╚═╝║   ╚═╗╔═╝
